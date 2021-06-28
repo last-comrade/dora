@@ -9,7 +9,7 @@ tags: [vlsi, fpga]
 ---
 
 
-![maine university :] (https://ece.umaine.edu/research/vlsi/)
+![maine university :](https://ece.umaine.edu/research/vlsi/)
 
 CMPE 413/CMSC 711: Principles of VLSI Design/VLSI Systems : http://ece-research.unm.edu/jimp/vlsi/index.html
 
