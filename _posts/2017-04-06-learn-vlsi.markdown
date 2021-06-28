@@ -50,6 +50,6 @@ texas university : http://users.ece.utexas.edu/~adnan/vlsi-07/
 
 swarthmore : http://www.swarthmore.edu/NatSci/echeeve1/Class/e24/E24index.html
 
-
+|YOUTUBE
 
 
