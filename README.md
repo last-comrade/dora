@@ -1,3 +1,3 @@
 # surya_says
 
-# Lear New EveryDay
+# Learn New EveryDay
